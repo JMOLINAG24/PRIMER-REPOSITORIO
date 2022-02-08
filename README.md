@@ -1,4 +1,4 @@
-# PRIMER-REPOSITORIO
+# Hola mundo
 "Hola mundo"
 
 Autor: Jorge Molina
